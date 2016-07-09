@@ -5,7 +5,7 @@
 1. Don't be a jerk
 2. If you can’t make your RSVP, please cancel!
 3. Any help is encouraged, regardless of skill level.
-4. Did something cool on React? Share with the community! Do a talk or a ReHacked lab!
+4. Did something cool with React, Redux, etc.? Share with the community! Do a talk or a ReHacked lab!
 
 ## Meetup Dates
 
