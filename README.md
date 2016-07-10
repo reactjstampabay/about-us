@@ -2,13 +2,22 @@
 
 ## Organizers
 
-* [Eric Nograles](github.com/ericnograles)
-* [John Hampton](github.com/johnrhampton)
-* [Josh Burgess](github.com/joshburgess)
+* Eric Nograles
+    * Github: [joshburgess](https://github.com/ericnograles)
+    * Medium: [@joshburgess](https://medium.com/@grales)
+    * Twitter: [@_joshburgess](https://twitter.com/@grales)
+* John Hampton
+    * Github: [joshburgess](https://github.com/johnrhampton)
+    * Medium: [@joshburgess](https://medium.com/@johnrhampton)
+    * Twitter: [@_joshburgess](https://twitter.com/@johnrhampton)
+* Josh Burgess
+    * Github: [joshburgess](https://github.com/joshburgess)
+    * Medium: [@joshburgess](https://medium.com/@joshburgess)
+    * Twitter: [@_joshburgess](https://twitter.com/@_joshburgess)
 
 ## Meetup Dates
 
-* **ReHacked**: 2nd Wednesday of Every Month 
+* **ReHacked Labs**: 2nd Wednesday of Every Month 
 * **Presentations/Talks**: Last Wednesday of Every Month
 
 ## Slack
