@@ -20,9 +20,10 @@
 * **ReHacked Labs**: 2nd Wednesday of Every Month 
 * **Presentations/Talks**: Last Wednesday of Every Month
 
-## Slack
-* [Signup](reactjstampabay-slack.heroku.com)
-* [Channel](reactjstampabay.slack.com)
+## Community 
+* Twitter: [@reactjstampabay](https://twitter.com/reactjstampabay)
+* [Slack Signup](reactjstampabay-slack.heroku.com)
+* [Slack Channel](reactjstampabay.slack.com)
 
 ## Rules
 
