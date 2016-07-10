@@ -3,13 +3,13 @@
 ## Organizers
 
 * Eric Nograles
-    * Github: [joshburgess](https://github.com/ericnograles)
-    * Medium: [@joshburgess](https://medium.com/@grales)
-    * Twitter: [@_joshburgess](https://twitter.com/@grales)
+    * Github: [ericnograles](https://github.com/ericnograles)
+    * Medium: [@grales](https://medium.com/@grales)
+    * Twitter: [@grales](https://twitter.com/@grales)
 * John Hampton
-    * Github: [joshburgess](https://github.com/johnrhampton)
-    * Medium: [@joshburgess](https://medium.com/@johnrhampton)
-    * Twitter: [@_joshburgess](https://twitter.com/@johnrhampton)
+    * Github: [johnrhampton](https://github.com/johnrhampton)
+    * Medium: [@johnrhampton](https://medium.com/@johnrhampton)
+    * Twitter: [@johnrhampton](https://twitter.com/@johnrhampton)
 * Josh Burgess
     * Github: [joshburgess](https://github.com/joshburgess)
     * Medium: [@joshburgess](https://medium.com/@joshburgess)
