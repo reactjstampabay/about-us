@@ -1,5 +1,3 @@
-# ReactJS Tampa Bay
-
 ## Organizers
 
 ### Jordan Rhodes 🍑
