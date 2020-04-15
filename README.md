@@ -11,7 +11,7 @@
 
 - Engineering Manager, Package @ GitLab (San Francisco, CA)
 - Twitter: [@johnrhampton](https://twitter.com/johnrhampton)
-- GitHub:  [@johnrhampton](https://github.com/jsrhodes15)
+- GitHub:  [@johnrhampton](https://github.com/johnrhampton)
 - GitLab:  [@jhampton](https://gitlab.com/jhampton)
 
 ## Meetup Dates
