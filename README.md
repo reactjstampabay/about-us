@@ -5,12 +5,16 @@
 ### Jordan Rhodes 🍑
 
 - Senior Software Engineer @ Exzeo (Tampa, FL)
-- [@jsrhodes15](https://twitter.com/jsrhodes15)
+- Twitter: [@jsrhodes15](https://twitter.com/jsrhodes15)
+- GitHub:  [@jsrhodes15](https://github.com/jsrhodes15)
+- GitLab:  [@jsrhodes15](https://gitlab.com/jsrhodes15)
 
 ### John Hampton <img src="https://emoji.slack-edge.com/T02592416/hipster-tanuki/94529b8ed5f5dd4a.png" alt="drawing" width="25"/>
 
 - Engineering Manager @ GitLab (San Francisco, CA)
-- [@johnrhampton](https://twitter.com/johnrhampton)
+- Twitter: [@johnrhampton](https://twitter.com/johnrhampton)
+- GitHub:  [@johnrhampton](https://github.com/jsrhodes15)
+- GitLab:  [@jhampton](https://gitlab.com/jhampton)
 
 ## Meetup Dates
 
