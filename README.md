@@ -11,7 +11,7 @@
 
 ### John Hampton <img src="https://emoji.slack-edge.com/T02592416/hipster-tanuki/94529b8ed5f5dd4a.png" alt="drawing" width="25"/>
 
-- Engineering Manager @ GitLab (San Francisco, CA)
+- Engineering Manager, Package @ GitLab (San Francisco, CA)
 - Twitter: [@johnrhampton](https://twitter.com/johnrhampton)
 - GitHub:  [@johnrhampton](https://github.com/jsrhodes15)
 - GitLab:  [@jhampton](https://gitlab.com/jhampton)
